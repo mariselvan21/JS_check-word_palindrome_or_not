@@ -1,0 +1,1 @@
+# JS_check-word_palindrome_or_not
